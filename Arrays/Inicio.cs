@@ -19,6 +19,8 @@ namespace Arrays
             InitializeComponent();
         }
 
+        //COMENTARIO PARA VIDEO DE GitHub
+
         private void buttonSalir_Click(object sender, EventArgs e)
         {
             Application.Exit(); // Cierra la aplicacion
