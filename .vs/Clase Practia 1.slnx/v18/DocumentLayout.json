@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andres Castellon\\source\\repos\\AED 2026\\Clase Practica 1\\Inicio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C1F3A-D2B9-44C7-A8C5-BF61998ABEC2}|Arrays\\Arrays.csproj|c:\\users\\andres castellon\\source\\repos\\aed 2026\\clase practica 1\\inicio\\arrays\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48C1F3A-D2B9-44C7-A8C5-BF61998ABEC2}|Arrays\\Arrays.csproj|solutionrelative:arrays\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C1F3A-D2B9-44C7-A8C5-BF61998ABEC2}|Arrays\\Arrays.csproj|c:\\users\\andres castellon\\source\\repos\\aed 2026\\clase practica 1\\inicio\\arrays\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F48C1F3A-D2B9-44C7-A8C5-BF61998ABEC2}|Arrays\\Arrays.csproj|solutionrelative:arrays\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\AED 2026\\Clase Practica 1\\Inicio\\Arrays\\Inicio.cs",
+              "RelativeDocumentMoniker": "Arrays\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\AED 2026\\Clase Practica 1\\Inicio\\Arrays\\Inicio.cs",
+              "RelativeToolTip": "Arrays\\Inicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T04:57:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\AED 2026\\Clase Practica 1\\Inicio\\Arrays\\Inicio.cs",
+              "RelativeDocumentMoniker": "Arrays\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\AED 2026\\Clase Practica 1\\Inicio\\Arrays\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Arrays\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T04:57:48.605Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
