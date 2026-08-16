@@ -1,0 +1,12 @@
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\bin\Debug\Arrays.exe
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.exe
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.Inicio.resources
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.Indices.resources
+C:\Users\Andres Castellon\source\repos\AED 2026\Clase Practica 1\Inicio\Arrays\obj\Debug\Arrays.Mayor.resources
