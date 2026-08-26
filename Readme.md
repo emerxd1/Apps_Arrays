@@ -1,1 +1,2 @@
-#Video de github 
+ejercicios de arreglos unidimensionales
+con interfaz grafica
